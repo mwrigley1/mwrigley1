@@ -1,0 +1,54 @@
+body {
+  margin: 0px;
+}
+
+article {
+  margin-left: 10%;
+  width: 60%;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: indianred;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
+
+p {
+  font-family:  Georgia;
+  font-size:  30px;
+}
+
+figure {
+  font-size: 25px;
+}
+
+li {
+  font-family:  Tahoma;
+  font-size:  30px;
+}
+
+img {
+  max-height: 1000px;
+  max-width: 1000px;
+}
+
+nav {
+  font-size: 30px;
+  font-family: Georgia;
+}
