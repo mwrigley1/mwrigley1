@@ -31,7 +31,7 @@ a:hover {
 
 p {
   font-family:  Georgia;
-  font-size:  30px;
+  font-size:  20px;
 }
 
 figure {
@@ -48,7 +48,14 @@ img {
   width: 720px;
 }
 
+figcaption {
+  font-size: 10px;
+  font-family: Tahoma
+}
+
 nav {
   font-size: 30px;
   font-family: Georgia;
 }
+
+
