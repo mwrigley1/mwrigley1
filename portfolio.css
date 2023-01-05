@@ -1,0 +1,78 @@
+/* Add a background color to the body */
+body {
+  background-color: ghostwhite;
+}
+
+/* Center the content on the page */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Style the header */
+header {
+  background-color: deepskyblue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the navbar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightblue;
+  color: white;
+  padding: 20px;
+}
+
+/* Style the links in the navbar */
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+/* Style the main section */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+/* Style the projects */
+.project {
+  width: 30%;
+  background-color: white;
+  border: 1px solid lightgray;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Style the project image */
+.project img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the project title */
+.project h3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+/* Style the project description */
+.project p {
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+/* Style the footer */
+footer {
+  background-color: darkblue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
